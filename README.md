@@ -1,6 +1,8 @@
+![Futuristic banking system](Futuristic_Banking_System.webp)
+
 # Banking System Project
 
-# Contents
+## Contents
 
 - [Overview](#overview)
 - [Features](#features)
